@@ -1,0 +1,25 @@
+{
+  "name": "medcof",
+  "version": "1.0.0",
+  "description": "Este repositório contém testes automatizados usando o Cypress para validar a funcionalidade de pesquisa e a ordenação de datas em uma aplicação web. Certifique-se de seguir as instruções de configuração e execução dos testes para garantir a qualidade do software.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "recordTestDashCypress": "npx cypress run --record --key 1a0d607e-6a84-49f3-bc61-bdcb107f32b2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgemonteirojunior/teste_medcof"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgemonteirojunior/teste_medcof/issues"
+  },
+  "homepage": "https://github.com/jorgemonteirojunior/teste_medcof#readme",
+  "devDependencies": {
+    "cypress": "^13.9.0",
+    "faker-br": "^0.4.1"
+  }
+}
