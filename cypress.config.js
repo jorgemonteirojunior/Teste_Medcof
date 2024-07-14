@@ -1,7 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  projectId: "7wcc73",
+  projectId: "pc2qqc",
   retries: {
     runMode: 0,
     openMode: 0,

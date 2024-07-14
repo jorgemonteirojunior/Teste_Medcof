@@ -6,7 +6,7 @@ Este repositório contém testes automatizados usando o Cypress para validar a f
 2. Rode o comando `npm install` para instalar as dependencias
 3. Use npx cypress open para abrir a aplicação 
 4. Use o comando `npm run recordTestDashCypress ` para rodar em modo headlees e gerar as evidencias 
-4. Acesse o link https://cloud.cypress.io/projects/7wcc73 para visualizar as evidencias e o dashboard
+4. Acesse o link https://cloud.cypress.io/projects/pc2qqc para visualizar as evidencias e o dashboard
 
 
 
